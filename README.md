@@ -18,6 +18,11 @@
 > - Hashing 
 > - Graph
 
+## Graphically
+
+<img src="https://user-images.githubusercontent.com/79294934/124224708-cc8de680-dacb-11eb-94d4-ddc6237fdbd5.png"> </img>
+
+
 ## More
 > Information and examples of [data structures](https://www.mygreatlearning.com/blog/data-structures-using-java/)
 
