@@ -26,6 +26,10 @@
 ## More
 > Information and examples of [data structures](https://www.mygreatlearning.com/blog/data-structures-using-java/)
 
+## Dependencies
+> - Install [VS Code](https://code.visualstudio.com/download)
+> - Install [Node.js](https://nodejs.org/en/)
+
 ## Run Code
 > You can only run this project by file, using the extension [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) then select the code and use left click and `Run Code` . Now you'll see the code running in the terminal.
 
